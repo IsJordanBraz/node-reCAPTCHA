@@ -1,4 +1,4 @@
-### reCaptcha
+### reCaptcha v2
 
 ### Tecnologias 🚀
 
